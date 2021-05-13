@@ -5,7 +5,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="test1",
+    name="qianyantest1",
     version="0.1",
     license="MIT Licence",
 
